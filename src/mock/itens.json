@@ -1,0 +1,82 @@
+[
+    {
+        "id_museu": 1,
+        "id_obra": 1,
+        "nome_obra": "Retrato de Anita Malfatti",
+        "ano_obra": 1915,
+        "resumo_obra": "Pintura icônica da artista brasileira Anita Malfatti, considerada uma das precursoras do modernismo no Brasil.",
+        "img_obra": "https://example.com/obra_anita_malfatti.jpg"
+    },
+    {
+        "id_museu": 1,
+        "id_obra": 2,
+        "nome_obra": "Abaporu",
+        "ano_obra": 1928,
+        "resumo_obra": "Obra de Tarsila do Amaral, representativa do movimento antropofágico no modernismo brasileiro.",
+        "img_obra": "https://example.com/obra_abaporu.jpg"
+    },
+    {
+        "id_museu": 2,
+        "id_obra": 3,
+        "nome_obra": "Independência ou Morte!",
+        "ano_obra": 1888,
+        "resumo_obra": "Pintura de Pedro Américo retratando o momento da independência do Brasil.",
+        "img_obra": "https://example.com/obra_independencia.jpg"
+    },
+    {
+        "id_museu": 2,
+        "id_obra": 4,
+        "nome_obra": "A Moreninha",
+        "ano_obra": 1887,
+        "resumo_obra": "Escultura de Victor Brecheret representando o personagem literário 'A Moreninha'.",
+        "img_obra": "https://example.com/obra_moreninha.jpg"
+    },
+    {
+        "id_museu": 3,
+        "id_obra": 5,
+        "nome_obra": "DNA",
+        "ano_obra": 1953,
+        "resumo_obra": "Modelo em dupla hélice do DNA, parte da exposição sobre genética e biologia molecular.",
+        "img_obra": "https://example.com/obra_dna.jpg"
+    },
+    {
+        "id_museu": 3,
+        "id_obra": 6,
+        "nome_obra": "Máquina a Vapor",
+        "ano_obra": 1769,
+        "resumo_obra": "Réplica de uma máquina a vapor, parte da exposição sobre a Revolução Industrial.",
+        "img_obra": "https://example.com/obra_maquina_vapor.jpg"
+    },
+    {
+        "id_museu": 4,
+        "id_obra": 7,
+        "nome_obra": "Primeira Gramática da Língua Portuguesa",
+        "ano_obra": 1540,
+        "resumo_obra": "Exemplar da primeira gramática da língua portuguesa, importante para o estudo linguístico.",
+        "img_obra": "https://example.com/obra_gramatica.jpg"
+    },
+    {
+        "id_museu": 4,
+        "id_obra": 8,
+        "nome_obra": "O Guarani",
+        "ano_obra": 1857,
+        "resumo_obra": "Ilustrações da obra 'O Guarani' de José de Alencar, representando a literatura brasileira.",
+        "img_obra": "https://example.com/obra_o_guarani.jpg"
+    },
+    {
+        "id_museu": 5,
+        "id_obra": 9,
+        "nome_obra": "Pelé - Rei do Futebol",
+        "ano_obra": 1971,
+        "resumo_obra": "Escultura homenageando Pelé, considerado um dos maiores jogadores de futebol de todos os tempos.",
+        "img_obra": "https://example.com/obra_pele.jpg"
+    },
+    {
+        "id_museu": 5,
+        "id_obra": 10,
+        "nome_obra": "Gol do Século",
+        "ano_obra": 1980,
+        "resumo_obra": "Registro fotográfico do famoso 'Gol do Século' de Diego Maradona, parte da exposição sobre momentos históricos do futebol.",
+        "img_obra": "https://example.com/obra_gol_seculo.jpg"
+    }
+]

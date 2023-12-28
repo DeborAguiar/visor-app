@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "Museu de Arte de São Paulo Assis Chateaubriand (MASP)",
+        "open_at": "1947",
+        "resume": "O Museu de Arte de São Paulo Assis Chateaubriand (MASP) é um dos mais importantes museus de arte da América Latina. Foi fundado em 1947 por Assis Chateaubriand, um empresário e jornalista brasileiro. O museu abriga um acervo de mais de 11 mil obras de arte, incluindo pinturas, esculturas, desenhos, gravuras e fotografias.",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MASP_-_S%C3%A3o_Paulo.jpg/1200px-MASP_-_S%C3%A3o_Paulo.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Museu do Ipiranga",
+        "open_at": "1895",
+        "resume": "O Museu do Ipiranga é um museu histórico localizado no Parque da Independência, na cidade de São Paulo. Foi fundado em 1895 para celebrar o centenário da Independência do Brasil. O museu abriga um acervo de mais de 200 mil peças, incluindo documentos, objetos, pinturas e esculturas.",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Museu_do_Ipiranga_-_S%C3%A3o_Paulo.jpg/1200px-Museu_do_Ipiranga_-_S%C3%A3o_Paulo.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Museu Catavento",
+        "open_at": "2009",
+        "resume": "O Museu Catavento é um museu de ciência localizado na Praça Cívica, na cidade de São Paulo. Foi inaugurado em 2009 e é administrado pela Secretaria de Cultura do Estado de São Paulo. O museu abriga exposições interativas sobre temas como ciência, tecnologia, natureza e história.",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Museu_Catavento_-_S%C3%A3o_Paulo.jpg/1200px-Museu_Catavento_-_S%C3%A3o_Paulo.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Museu da Língua Portuguesa",
+        "open_at": "2006",
+        "resume": "O Museu da Língua Portuguesa é um museu dedicado à história e à cultura da língua portuguesa. Foi inaugurado em 2006 e está localizado no Pátio do Colégio, na cidade de São Paulo. O museu abriga exposições interativas sobre a evolução da língua portuguesa, sua importância cultural e seu uso no mundo.",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/f4f/Museu_da_L%C3%ADngua_Portuguesa-_S%C3%A3o_Paulo.jpg/1200px-Museu_da_L%C3%ADngua_Portuguesa-_S%C3%A3o_Paulo.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Museu do Futebol",
+        "open_at": "2008",
+        "resume": "O Museu do Futebol é um museu dedicado à história do futebol. Foi inaugurado em 2008 e está localizado no Estádio do Pacaembu, na cidade de São Paulo. O museu abriga exposições interativas sobre a história do futebol no Brasil e no mundo, seus principais personagens e suas regras.",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Museu_do_Futebol-_S%C3%A3o_Paulo.jpg/1200px-Museu_do_Futebol-_S%C3%A3o_Paulo.jpg"
+    }
+]
