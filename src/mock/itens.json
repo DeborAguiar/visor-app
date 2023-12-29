@@ -2,81 +2,91 @@
     {
         "id_museu": 1,
         "id_obra": 1,
-        "nome_obra": "Retrato de Anita Malfatti",
-        "ano_obra": 1915,
-        "resumo_obra": "Pintura icônica da artista brasileira Anita Malfatti, considerada uma das precursoras do modernismo no Brasil.",
-        "img_obra": "https://example.com/obra_anita_malfatti.jpg"
+        "name": "O Lavrador de Café",
+        "year": 1939,
+        "artist": "Candido Portinari",
+        "resume": "Pintura de Candido Portinari retratando a dura realidade dos trabalhadores rurais brasileiros.",
+        "img": "https://assets.masp.org.br/uploads/temp/WEB_JM_MASP_00519_01.jpg"
     },
     {
         "id_museu": 1,
         "id_obra": 2,
-        "nome_obra": "Abaporu",
-        "ano_obra": 1928,
-        "resumo_obra": "Obra de Tarsila do Amaral, representativa do movimento antropofágico no modernismo brasileiro.",
-        "img_obra": "https://example.com/obra_abaporu.jpg"
+        "name": "Guerra e Paz",
+        "year": 1956,
+        "artist": "Candido Portinari",
+        "resume": "Conjunto monumental de painéis de Candido Portinari simbolizando a luta pela paz, exibido na sede da ONU em Nova York.",
+        "img": "https://2.bp.blogspot.com/-CARiH4Smb-8/WLywE-G4UgI/AAAAAAAAACg/P4zt0NJBkkMCsgAUvQR9RT30EtHZyW7QQCLcB/s320/portinari_guerraepaz1.jpg"
     },
     {
         "id_museu": 2,
         "id_obra": 3,
-        "nome_obra": "Independência ou Morte!",
-        "ano_obra": 1888,
-        "resumo_obra": "Pintura de Pedro Américo retratando o momento da independência do Brasil.",
-        "img_obra": "https://example.com/obra_independencia.jpg"
+        "name": "Abaporu",
+        "year": 1928,
+        "artist": "Tarsila do Amaral",
+        "resume": "Pintura modernista de Tarsila do Amaral, representativa do movimento antropofágico.",
+        "img": "https://cdn.culturagenial.com/imagens/abaporu-2-cke.jpg"
     },
     {
         "id_museu": 2,
         "id_obra": 4,
-        "nome_obra": "A Moreninha",
-        "ano_obra": 1887,
-        "resumo_obra": "Escultura de Victor Brecheret representando o personagem literário 'A Moreninha'.",
-        "img_obra": "https://example.com/obra_moreninha.jpg"
+        "name": "Operários",
+        "year": 1933,
+        "artist": "Tarsila do Amaral",
+        "resume": "Obra de Tarsila do Amaral retratando a urbanização e industrialização do Brasil.",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/Operarios.jpg/300px-Operarios.jpg"
     },
     {
         "id_museu": 3,
         "id_obra": 5,
-        "nome_obra": "DNA",
-        "ano_obra": 1953,
-        "resumo_obra": "Modelo em dupla hélice do DNA, parte da exposição sobre genética e biologia molecular.",
-        "img_obra": "https://example.com/obra_dna.jpg"
+        "name": "Café",
+        "year": 1935,
+        "artist": "Di Cavalcanti",
+        "resume": "Pintura de Di Cavalcanti representando a cultura e o cotidiano brasileiro.",
+        "img": "https://d37wn8ty40oiam.cloudfront.net/imagens/img_g/117/53394.jpg"
     },
     {
         "id_museu": 3,
         "id_obra": 6,
-        "nome_obra": "Máquina a Vapor",
-        "ano_obra": 1769,
-        "resumo_obra": "Réplica de uma máquina a vapor, parte da exposição sobre a Revolução Industrial.",
-        "img_obra": "https://example.com/obra_maquina_vapor.jpg"
+        "name": "Mulher com Flor no Cabelo",
+        "year": 1957,
+        "artist": "Di Cavalcanti",
+        "resume": "Obra de Di Cavalcanti retratando figuras femininas em um estilo vibrante.",
+        "img": "https://www.leilaodearte.com/obras/di-cavalcanti-mulher-com-flor-no-cabelo-oleo-sobre-tela-24386.jpg"
     },
     {
         "id_museu": 4,
         "id_obra": 7,
-        "nome_obra": "Primeira Gramática da Língua Portuguesa",
-        "ano_obra": 1540,
-        "resumo_obra": "Exemplar da primeira gramática da língua portuguesa, importante para o estudo linguístico.",
-        "img_obra": "https://example.com/obra_gramatica.jpg"
+        "name": "Bandeirolas",
+        "year": 1958,
+        "artist": "Alfredo Volpi",
+        "resume": "Pintura abstrata de Alfredo Volpi representando elementos tradicionais brasileiros.",
+        "img": "https://muralzinhodeideias.com.br/wp-content/uploads/2019/06/grande-fachada-festiva-1950.webp"
     },
     {
         "id_museu": 4,
         "id_obra": 8,
-        "nome_obra": "O Guarani",
-        "ano_obra": 1857,
-        "resumo_obra": "Ilustrações da obra 'O Guarani' de José de Alencar, representando a literatura brasileira.",
-        "img_obra": "https://example.com/obra_o_guarani.jpg"
+        "name": "Igreja",
+        "year": 1962,
+        "artist": "Alfredo Volpi",
+        "resume": "Obra de Alfredo Volpi com uma estilização única de igrejas.",
+        "img": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_g/7619/3331482.jpg"
     },
     {
         "id_museu": 5,
         "id_obra": 9,
-        "nome_obra": "Pelé - Rei do Futebol",
-        "ano_obra": 1971,
-        "resumo_obra": "Escultura homenageando Pelé, considerado um dos maiores jogadores de futebol de todos os tempos.",
-        "img_obra": "https://example.com/obra_pele.jpg"
+        "name": "A Estudante",
+        "year": 1915,
+        "artist": "Anita Malfatti",
+        "resume": "Pintura expressionista de Anita Malfatti provocando debates na época.",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/b/b8/Anita_Malfatti_-_A_Estudante.jpg"
     },
     {
         "id_museu": 5,
         "id_obra": 10,
-        "nome_obra": "Gol do Século",
-        "ano_obra": 1980,
-        "resumo_obra": "Registro fotográfico do famoso 'Gol do Século' de Diego Maradona, parte da exposição sobre momentos históricos do futebol.",
-        "img_obra": "https://example.com/obra_gol_seculo.jpg"
+        "name": "O Farol",
+        "year": 1915,
+        "artist": "Anita Malfatti",
+        "resume": "Obra de Anita Malfatti explorando temas marítimos com uma representação impressionante.",
+        "img": "https://i0.wp.com/www.historiadasartes.com/wp-content/uploads/2017/02/m_farol.jpg?resize=500%2C393&ssl=1"
     }
 ]
