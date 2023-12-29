@@ -7,18 +7,22 @@ import { CommonModule } from '@angular/common';
 import { CodeComponent } from './components/code/code.component';
 import { LanguageComponent } from './components/language/language.component';
 import { PlaceComponent } from './components/place/place.component';
+import { RouterModule } from '@angular/router';
+import { ItemComponent } from './components/item/item.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CodeComponent,
     LanguageComponent,
-    PlaceComponent
+    PlaceComponent,
+    ItemComponent
   ],
   imports: [
-    BrowserModule,
     AppRoutingModule,
-    CommonModule
+    BrowserModule,
+    CommonModule,
+    RouterModule
   ],
   providers: [
     provideClientHydration()
