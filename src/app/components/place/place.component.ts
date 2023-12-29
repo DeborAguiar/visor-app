@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
 import { PlacesService } from '../../services/places.services';
 import { Place } from '../../../interfaces';
 import { ItensService } from '../../services/itens.services';
@@ -17,7 +17,6 @@ export class PlaceComponent implements OnInit {
 
   constructor(
     private route: ActivatedRoute,
-    private router: Router,
     private placesService: PlacesService,
     private itensService: ItensService,
   ) { }
