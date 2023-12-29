@@ -1,0 +1,92 @@
+[
+    {
+        "id_museu": 1,
+        "id_obra": 1,
+        "name": "O Lavrador de Café",
+        "year": 1939,
+        "artist": "Candido Portinari",
+        "resume": "Pintura de Candido Portinari retratando a dura realidade dos trabalhadores rurais brasileiros.",
+        "img": "https://assets.masp.org.br/uploads/temp/WEB_JM_MASP_00519_01.jpg"
+    },
+    {
+        "id_museu": 1,
+        "id_obra": 2,
+        "name": "Guerra e Paz",
+        "year": 1956,
+        "artist": "Candido Portinari",
+        "resume": "Conjunto monumental de painéis de Candido Portinari simbolizando a luta pela paz, exibido na sede da ONU em Nova York.",
+        "img": "https://2.bp.blogspot.com/-CARiH4Smb-8/WLywE-G4UgI/AAAAAAAAACg/P4zt0NJBkkMCsgAUvQR9RT30EtHZyW7QQCLcB/s320/portinari_guerraepaz1.jpg"
+    },
+    {
+        "id_museu": 2,
+        "id_obra": 3,
+        "name": "Abaporu",
+        "year": 1928,
+        "artist": "Tarsila do Amaral",
+        "resume": "Pintura modernista de Tarsila do Amaral, representativa do movimento antropofágico.",
+        "img": "https://cdn.culturagenial.com/imagens/abaporu-2-cke.jpg"
+    },
+    {
+        "id_museu": 2,
+        "id_obra": 4,
+        "name": "Operários",
+        "year": 1933,
+        "artist": "Tarsila do Amaral",
+        "resume": "Obra de Tarsila do Amaral retratando a urbanização e industrialização do Brasil.",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/Operarios.jpg/300px-Operarios.jpg"
+    },
+    {
+        "id_museu": 3,
+        "id_obra": 5,
+        "name": "Café",
+        "year": 1935,
+        "artist": "Di Cavalcanti",
+        "resume": "Pintura de Di Cavalcanti representando a cultura e o cotidiano brasileiro.",
+        "img": "https://d37wn8ty40oiam.cloudfront.net/imagens/img_g/117/53394.jpg"
+    },
+    {
+        "id_museu": 3,
+        "id_obra": 6,
+        "name": "Mulher com Flor no Cabelo",
+        "year": 1957,
+        "artist": "Di Cavalcanti",
+        "resume": "Obra de Di Cavalcanti retratando figuras femininas em um estilo vibrante.",
+        "img": "https://www.leilaodearte.com/obras/di-cavalcanti-mulher-com-flor-no-cabelo-oleo-sobre-tela-24386.jpg"
+    },
+    {
+        "id_museu": 4,
+        "id_obra": 7,
+        "name": "Bandeirolas",
+        "year": 1958,
+        "artist": "Alfredo Volpi",
+        "resume": "Pintura abstrata de Alfredo Volpi representando elementos tradicionais brasileiros.",
+        "img": "https://muralzinhodeideias.com.br/wp-content/uploads/2019/06/grande-fachada-festiva-1950.webp"
+    },
+    {
+        "id_museu": 4,
+        "id_obra": 8,
+        "name": "Igreja",
+        "year": 1962,
+        "artist": "Alfredo Volpi",
+        "resume": "Obra de Alfredo Volpi com uma estilização única de igrejas.",
+        "img": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_g/7619/3331482.jpg"
+    },
+    {
+        "id_museu": 5,
+        "id_obra": 9,
+        "name": "A Estudante",
+        "year": 1915,
+        "artist": "Anita Malfatti",
+        "resume": "Pintura expressionista de Anita Malfatti provocando debates na época.",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/b/b8/Anita_Malfatti_-_A_Estudante.jpg"
+    },
+    {
+        "id_museu": 5,
+        "id_obra": 10,
+        "name": "O Farol",
+        "year": 1915,
+        "artist": "Anita Malfatti",
+        "resume": "Obra de Anita Malfatti explorando temas marítimos com uma representação impressionante.",
+        "img": "https://i0.wp.com/www.historiadasartes.com/wp-content/uploads/2017/02/m_farol.jpg?resize=500%2C393&ssl=1"
+    }
+]
